@@ -1,0 +1,8 @@
+{
+  "name": "HeartBeat Live - Voice Party & Dating Rooms",
+  "description": "Live audio party rooms, dating blind dates, PK battles, family clans, interactive gifting, recharge store, events, and volunteer games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
